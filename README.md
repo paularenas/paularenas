@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/paularenas/paularenas/blob/main/banner_profe.png?raw=true]" width="100%" />
+  <img src="https://github.com/paularenas/paularenas/blob/main/banner_profe.png?raw=true" width="100%" />
 </p>
 # Hey, I'm Paula 👋
 
