@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[PEGA_AQUI_EL_LINK](https://github.com/paularenas/paularenas/blob/main/banner_profe.png)" width="100%" />
+</p>
 # Hey, I'm Paula 👋
 
 📍 Colombia  
