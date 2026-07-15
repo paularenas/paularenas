@@ -27,3 +27,11 @@ Currently, I am pursuing a degree in Systems Engineering, strengthening my techn
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paularenas&theme=dracula)](https://git.io/streak-stats)
 
+
+---
+## PROJECTS
+
+LANDING PAGE:
+https://dextrex.online/
+https://bodacamiladiego.online/
+https://liquor-stop.store/
