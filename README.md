@@ -32,6 +32,9 @@ Currently, I am pursuing a degree in Systems Engineering, strengthening my techn
 ## PROJECTS
 
 LANDING PAGE:
+
 https://dextrex.online/
+
 https://bodacamiladiego.online/
+
 https://liquor-stop.store/
