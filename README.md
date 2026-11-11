@@ -14,7 +14,7 @@
 https://paulaandreaarenas.com/
 
 ### LinkedIn
-www.linkedin.com/in/paula-andrea-arenas-zuñiga-959561232
+www.linkedin.com/in/paula-andrea-arenas-zuñiga
 
 
 ## 👩‍💼 About Me
